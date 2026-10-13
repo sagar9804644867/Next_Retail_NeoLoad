@@ -1,0 +1,10 @@
+# NeoLoad runtime output
+Next_Retail/results/
+
+# Recordings contain session cookies - never commit
+*.har
+*.saz
+
+# OS files
+.DS_Store
+Thumbs.db

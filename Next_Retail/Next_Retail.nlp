@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=Next_Retail
+project.version=8.11
+project.original.version=8.11
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.version=2026.2.1
+product.original.version=2026.2.1
+project.is-open-test-settings-after-upload=false
+project.id=7dafc10d-cb8b-46b7-b027-6b09b63d522a
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
